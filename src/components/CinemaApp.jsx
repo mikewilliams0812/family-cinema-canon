@@ -195,26 +195,43 @@ async function fetchPoster(title, year) {
   const key = `${title}:${year}`;
   if (posterCache[key] !== undefined) return posterCache[key];
   try {
-    const q = encodeURIComponent(title);
-    const url = `https://itunes.apple.com/search?term=${q}&media=movie&entity=movie&limit=10&country=us`;
-    const r = await fetch(url);
+    const r = await fetch(`/api/poster?title=${encodeURIComponent(title)}&year=${year}`);
     const d = await r.json();
-    if (!d.results?.length) { posterCache[key] = null; return null; }
-    const results = d.results.filter(m => m.artworkUrl100);
-    let best = results.find(m => {
-      const titleOk = m.trackName?.toLowerCase() === title.toLowerCase();
-      const yr = m.releaseDate ? new Date(m.releaseDate).getFullYear() : null;
-      return titleOk && yr === year;
-    });
-    if (!best) best = results.find(m => m.trackName?.toLowerCase() === title.toLowerCase());
-    if (!best) best = results[0];
-    if (!best) { posterCache[key] = null; return null; }
-    const art = best.artworkUrl100
-      .replace(/\/\d+x\d+bb\./, "/400x600bb.")
-      .replace(/\/\d+x\d+\./, "/400x600.");
-    posterCache[key] = art;
-    return art;
-  } catch(e) { posterCache[key] = null; return null; }
+    posterCache[key] = d.url || null;
+    return posterCache[key];
+  } catch {
+    posterCache[key] = null;
+    return null;
+  }
+}
+
+async function enrichSeedMovies(movies, omdbKey, onUpdate) {
+  if (!omdbKey) return;
+  const unenriched = movies.filter(m => !m.omdbPoster && !m._enriched);
+  if (!unenriched.length) return;
+
+  for (const movie of unenriched) {
+    try {
+      const r = await fetch(`/api/enrich?title=${encodeURIComponent(movie.title)}&year=${movie.year}&key=${encodeURIComponent(omdbKey)}`);
+      const d = await r.json();
+      if (d.found) {
+        onUpdate(movie.id, {
+          omdbPlot: d.omdbPlot,
+          omdbDirector: d.omdbDirector,
+          omdbRuntime: d.omdbRuntime,
+          omdbRating: d.omdbRating,
+          omdbImdbRating: d.omdbImdbRating,
+          omdbPoster: d.omdbPoster,
+          _enriched: true,
+        });
+      } else {
+        onUpdate(movie.id, { _enriched: true });
+      }
+      await new Promise(r => setTimeout(r, 200));
+    } catch {
+      // skip on error, try next
+    }
+  }
 }
 
 function PosterImg({title, year, omdbPoster=null, size=48, radius=6, showPlaceholder=false}) {
@@ -906,9 +923,20 @@ export default function App() {
 
   useEffect(()=>{
     Promise.all([loadData(), loadOmdbKey()]).then(([d, key])=>{
-      if(d){setMovies(d.movies||[]);setKids(d.kids||[]);setWatches(d.watches||{});}
-      else{setMovies(SEED_MOVIES);setKids(SEED_KIDS);}
-      if(key) setOmdbKey(key);
+      let loadedMovies;
+      if(d){
+        setMovies(d.movies||[]);setKids(d.kids||[]);setWatches(d.watches||{});
+        loadedMovies = d.movies || [];
+      } else {
+        setMovies(SEED_MOVIES);setKids(SEED_KIDS);
+        loadedMovies = SEED_MOVIES;
+      }
+      if(key) {
+        setOmdbKey(key);
+        enrichSeedMovies(loadedMovies, key, (movieId, updates) => {
+          setMovies(prev => prev.map(m => m.id === movieId ? {...m, ...updates} : m));
+        });
+      }
       setLoaded(true);
     });
   },[]);
@@ -1273,7 +1301,13 @@ export default function App() {
                 style={{flex:1,background:C.bg,border:`1px solid ${C.border}`,borderRadius:6,
                   padding:"9px 12px",color:C.text,fontSize:13,fontFamily:"system-ui,sans-serif",
                   outline:"none"}}/>
-              <Btn onClick={()=>{saveOmdbKey(omdbKey);setShowSettings(false);}}>Save Key</Btn>
+              <Btn onClick={()=>{
+                saveOmdbKey(omdbKey);
+                enrichSeedMovies(movies, omdbKey, (movieId, updates) => {
+                  setMovies(prev => prev.map(m => m.id === movieId ? {...m, ...updates} : m));
+                });
+                setShowSettings(false);
+              }}>Save Key</Btn>
             </div>
             {omdbKey&&(
               <div style={{marginTop:8,fontSize:12,color:"#16a34a"}}>
