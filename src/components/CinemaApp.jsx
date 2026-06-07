@@ -1,7 +1,6 @@
 'use client';
 import { useState, useEffect, useRef } from "react";
 import { supabase } from "@/lib/supabase";
-import { loginFamily, createFamily, getKids, upsertKid, removeKid, getWatches, upsertWatch, getCustomMovies, insertCustomMovie, removeCustomMovie } from '../lib/cinemaDb';
 
 const uid = () => Math.random().toString(36).slice(2, 9);
 const calcAge = (dob) => {
