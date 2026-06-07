@@ -1,0 +1,490 @@
+{
+  "The Lion King": {
+    "omdbPlot": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+    "omdbDirector": "Roger Allers, Rob Minkoff",
+    "omdbRuntime": "88 min",
+    "omdbRating": "G",
+    "omdbImdbRating": "8.5",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BZGRiZDZhZjItM2M3ZC00Y2IyLTk3Y2MtMWY5YjliNDFkZTJlXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  "Toy Story": {
+    "omdbPlot": "A cowboy doll is profoundly jealous when a new spaceman action figure supplants him as the top toy in a boy's bedroom. When circumstances separate them from their owner, the duo have to put aside their differences to return to him.",
+    "omdbDirector": "John Lasseter",
+    "omdbRuntime": "81 min",
+    "omdbRating": "G",
+    "omdbImdbRating": "8.3",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BZTA3OWVjOWItNjE1NS00NzZiLWE1MjgtZDZhMWI1ZTlkNzYwXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  "WALL-E": {
+    "omdbPlot": "A robot named WALL-E is on a uninhabitable earth by itself but when the human space ship comes and drops of a new robot named Eva on search for a plant. Eva meets WALL-E witch WALL-E shows Eva a plant. the humans come back to take...",
+    "omdbDirector": "Andrew Stanton",
+    "omdbRuntime": "5 min",
+    "omdbRating": "TV-G",
+    "omdbImdbRating": "8.3",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BMzk0ZGMzMDYtMDJkYS00NTdhLWJlZWUtMTdhOTJkOTM3NDUwXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
+  },
+  "Up": {
+    "omdbPlot": "78-year-old Carl Fredricksen travels to South America in his house equipped with balloons, inadvertently taking a young stowaway.",
+    "omdbDirector": "Pete Docter, Bob Peterson",
+    "omdbRuntime": "96 min",
+    "omdbRating": "PG",
+    "omdbImdbRating": "8.3",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BNmI1ZTc5MWMtMDYyOS00ZDc2LTkzOTAtNjQ4NWIxNjYyNDgzXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  "E.T. the Extra-Terrestrial": {
+    "omdbPlot": "A troubled child summons the courage to help a friendly alien escape from Earth and return to his home planet.",
+    "omdbDirector": "Steven Spielberg",
+    "omdbRuntime": "115 min",
+    "omdbRating": "PG",
+    "omdbImdbRating": "7.9",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BYTNhNmY0YWMtMTczYi00MTA0LThhMmUtMTIxYzE0Y2QwMzRlXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  "The Iron Giant": {
+    "omdbPlot": "A young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy.",
+    "omdbDirector": "Brad Bird",
+    "omdbRuntime": "86 min",
+    "omdbRating": "PG",
+    "omdbImdbRating": "8.1",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BODM4ZjZjMGEtYmFiMy00MThjLWIzZjUtMDU0ODg1NTI2MzIwXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  "Home Alone": {
+    "omdbPlot": "An eight-year-old troublemaker, mistakenly left home alone, must defend his home against a pair of burglars on Christmas Eve.",
+    "omdbDirector": "Chris Columbus",
+    "omdbRuntime": "103 min",
+    "omdbRating": "PG",
+    "omdbImdbRating": "7.8",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BNzNmNmQ2ZDEtMTc1MS00NjNiLThlMGUtZmQxNTg1Nzg5NWMzXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  "The Incredibles": {
+    "omdbPlot": "While trying to lead a quiet suburban life, a family of undercover superheroes are forced into action to save the world.",
+    "omdbDirector": "Brad Bird",
+    "omdbRuntime": "115 min",
+    "omdbRating": "PG",
+    "omdbImdbRating": "8.0",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_SX300.jpg"
+  },
+  "The Princess Bride": {
+    "omdbPlot": "A bedridden boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love.",
+    "omdbDirector": "Rob Reiner",
+    "omdbRuntime": "98 min",
+    "omdbRating": "PG",
+    "omdbImdbRating": "8.0",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BMjFiOTEyNGMtN2E4MC00ZjZlLTk3ZDQtNTU1ZGNiZTA1MzJlXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  "The Sandlot": {
+    "omdbPlot": "In the summer of 1962, a new kid in town is taken under the wing of a young baseball prodigy and his rowdy team, resulting in many adventures.",
+    "omdbDirector": "David Mickey Evans",
+    "omdbRuntime": "101 min",
+    "omdbRating": "PG",
+    "omdbImdbRating": "7.8",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BNTc5YzE5OTAtMmY3YS00ODk4LTgzODItZGEzNmMxMDhhNWUwXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  "Star Wars: A New Hope": {
+    "omdbPlot": "A live staged reading of the original screenplay to 1977's Star Wars, with a radical cast including some of the galaxy's hottest stars.",
+    "omdbDirector": "Patrick Cotnoir",
+    "omdbRuntime": "123 min",
+    "omdbRating": null,
+    "omdbImdbRating": null,
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BY2YwYmUwNjQtMzRmYy00OTJhLTkyYTgtYzg0MzQ1Yjk3NTNiXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  "Star Wars: The Empire Strikes Back": {
+    "omdbPlot": "A radio drama version of 'The Empire Strikes Back'.",
+    "omdbDirector": null,
+    "omdbRuntime": null,
+    "omdbRating": null,
+    "omdbImdbRating": "9.0",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BZTY2ZTNjMGItMTEyNy00ZDkxLTgzMmMtYzhiZGY2NzMxNjE0XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  "Star Wars: Return of the Jedi": {
+    "omdbPlot": "A radio drama version of 'Return of the Jedi'.",
+    "omdbDirector": null,
+    "omdbRuntime": null,
+    "omdbRating": null,
+    "omdbImdbRating": "8.0",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BYjVkYzYxNGItZTk5MC00NGZlLWIxNjMtMjFjOTY5OGMyNmYwXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  "Harry Potter and the Sorcerer's Stone": {
+    "omdbPlot": "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.",
+    "omdbDirector": "Chris Columbus",
+    "omdbRuntime": "152 min",
+    "omdbRating": "PG",
+    "omdbImdbRating": "7.7",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BNTU1MzgyMDMtMzBlZS00YzczLThmYWEtMjU3YmFlOWEyMjE1XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  "Harry Potter and the Prisoner of Azkaban": {
+    "omdbPlot": "Harry Potter, Ron and Hermione return to Hogwarts School of Witchcraft and Wizardry for their third year of study, where they delve into the mystery surrounding an escaped prisoner who poses a dangerous threat to the young wizard.",
+    "omdbDirector": "Alfonso Cuarón",
+    "omdbRuntime": "142 min",
+    "omdbRating": "PG",
+    "omdbImdbRating": "7.9",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_SX300.jpg"
+  },
+  "Spirited Away": {
+    "omdbPlot": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches and spirits, and where humans are changed into beasts.",
+    "omdbDirector": "Hayao Miyazaki",
+    "omdbRuntime": "124 min",
+    "omdbRating": "PG",
+    "omdbImdbRating": "8.6",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BNTEyNmEwOWUtYzkyOC00ZTQ4LTllZmUtMjk0Y2YwOGUzYjRiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  },
+  "Back to the Future": {
+    "omdbPlot": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+    "omdbDirector": "Robert Zemeckis",
+    "omdbRuntime": "116 min",
+    "omdbRating": "PG",
+    "omdbImdbRating": "8.5",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BZmM3ZjE0NzctNjBiOC00MDZmLTgzMTUtNGVlOWFlOTNiZDJiXkEyXkFqcGc@._V1_QL75_UX380_CR0,14,380,562_.jpg"
+  },
+  "Raiders of the Lost Ark": {
+    "omdbPlot": "In 1936, archaeologist Indiana Jones is tasked by Army Intelligence to help locate a legendary ancient power, the Ark of Covenant, before the Nazis get it first.",
+    "omdbDirector": "Steven Spielberg",
+    "omdbRuntime": "115 min",
+    "omdbRating": "PG",
+    "omdbImdbRating": "8.4",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BOGNhMjg2ZjgtYzk4Ni00MTViLTg1MmUtYzM2MDZiYjZlMmU3XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  "Indiana Jones and the Last Crusade": {
+    "omdbPlot": "In 1938, after his father goes missing while pursuing the Holy Grail, Indiana Jones finds himself up against the Nazis again to stop them from obtaining its powers.",
+    "omdbDirector": "Steven Spielberg",
+    "omdbRuntime": "127 min",
+    "omdbRating": "PG-13",
+    "omdbImdbRating": "8.2",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BNGIxNzQ0YzYtMjNmYi00YjBlLWFjNzEtNGE3ZGFmYTczM2MwXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  "Jurassic Park": {
+    "omdbPlot": "An industrialist invites some experts to visit his theme park of cloned dinosaurs. After a power failure, the creatures run loose, putting everyone's lives, including his grandchildren's, in danger.",
+    "omdbDirector": "Steven Spielberg",
+    "omdbRuntime": "127 min",
+    "omdbRating": "PG-13",
+    "omdbImdbRating": "8.2",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_SX300.jpg"
+  },
+  "Apollo 13": {
+    "omdbPlot": "NASA must devise a strategy to return Apollo 13 to Earth safely after the spacecraft undergoes massive internal damage putting the lives of the three astronauts on board in jeopardy.",
+    "omdbDirector": "Ron Howard",
+    "omdbRuntime": "140 min",
+    "omdbRating": "PG",
+    "omdbImdbRating": "7.7",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BMGZmNGY1OTAtNjFkYS00MjcyLWFlZjUtYzEyMDllZGZhMzM3XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  "Hoosiers": {
+    "omdbPlot": "A coach with a checkered past and a local drunk train a small-town high school basketball team to become a top contender for the state championship in 1950s Indiana.",
+    "omdbDirector": "David Anspaugh",
+    "omdbRuntime": "114 min",
+    "omdbRating": "PG",
+    "omdbImdbRating": "7.4",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BOGFlMjJkNzYtMTMwYS00OWE0LWFkNzYtMGMzODIzOWM0ZDM2XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  "Miracle": {
+    "omdbPlot": "The true story of Herb Brooks, the player-turned-coach who led the 1980 U.S. Olympic hockey team to victory over the seemingly invincible Soviet squad.",
+    "omdbDirector": "Gavin O'Connor",
+    "omdbRuntime": "135 min",
+    "omdbRating": "PG",
+    "omdbImdbRating": "7.5",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BMjEyOTk1OTcyNV5BMl5BanBnXkFtZTYwNjMzNDU3._V1_SX300.jpg"
+  },
+  "The Lord of the Rings: The Fellowship of the Ring": {
+    "omdbPlot": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+    "omdbDirector": "Peter Jackson",
+    "omdbRuntime": "178 min",
+    "omdbRating": "PG-13",
+    "omdbImdbRating": "8.9",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg"
+  },
+  "The Lord of the Rings: The Two Towers": {
+    "omdbPlot": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+    "omdbDirector": "Peter Jackson",
+    "omdbRuntime": "179 min",
+    "omdbRating": "PG-13",
+    "omdbImdbRating": "8.8",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BMGQxMDdiOWUtYjc1Ni00YzM1LWE2NjMtZTg3Y2JkMjEzMTJjXkEyXkFqcGc@._V1_QL75_UX380_CR0,14,380,562_.jpg"
+  },
+  "The Lord of the Rings: The Return of the King": {
+    "omdbPlot": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+    "omdbDirector": "Peter Jackson",
+    "omdbRuntime": "201 min",
+    "omdbRating": "PG-13",
+    "omdbImdbRating": "9.0",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  },
+  "The Hobbit: An Unexpected Journey": {
+    "omdbPlot": "A reluctant Hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home and the gold within it from the dragon Smaug.",
+    "omdbDirector": "Peter Jackson",
+    "omdbRuntime": "169 min",
+    "omdbRating": "PG-13",
+    "omdbImdbRating": "7.8",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BMTcwNTE4MTUxMl5BMl5BanBnXkFtZTcwMDIyODM4OA@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  },
+  "Rudy": {
+    "omdbPlot": "Rudy has always been told that he was too small to play college football. But he is determined to overcome the odds and fulfill his dream of playing for Notre Dame.",
+    "omdbDirector": "David Anspaugh",
+    "omdbRuntime": "114 min",
+    "omdbRating": "PG",
+    "omdbImdbRating": "7.5",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BNjQ1MWQ4MWQtZWQzMy00NmU1LThmYzItNGU1OTc5MWJjNzQ1XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  "Rocky": {
+    "omdbPlot": "A small-time Philadelphia boxer gets a supremely rare chance to fight the world heavyweight champion in a bout in which he strives to go the distance for his self-respect.",
+    "omdbDirector": "John G. Avildsen",
+    "omdbRuntime": "120 min",
+    "omdbRating": "PG",
+    "omdbImdbRating": "8.1",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BZDEyY2M2MGMtYjg5OC00ZWFjLWFkZDQtNmQzZTdiYmYzZTBkXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  "Top Gun": {
+    "omdbPlot": "The Top Gun Naval Fighter Weapons School is where the best of the best train to refine their elite flying skills. When hotshot fighter pilot Maverick is sent to the school, his reckless attitude and cocky demeanor put him at odds ...",
+    "omdbDirector": "Tony Scott",
+    "omdbRuntime": "110 min",
+    "omdbRating": "PG",
+    "omdbImdbRating": "7.0",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BZmVjNzQ3MjYtYTZiNC00Y2YzLWExZTEtMTM2ZDllNDI0MzgyXkEyXkFqcGc@._V1_QL75_UX380_CR0,12,380,562_.jpg"
+  },
+  "Top Gun: Maverick": {
+    "omdbPlot": "The story involves Maverick confronting his past while training a group of younger Top Gun graduates, including the son of his deceased best friend, for a dangerous mission.",
+    "omdbDirector": "Joseph Kosinski",
+    "omdbRuntime": "130 min",
+    "omdbRating": "PG-13",
+    "omdbImdbRating": "8.2",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BMDBkZDNjMWEtOTdmMi00NmExLTg5MmMtNTFlYTJlNWY5YTdmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  },
+  "Groundhog Day": {
+    "omdbPlot": "A narcissistic, self-centered weatherman finds himself in a time loop on Groundhog Day.",
+    "omdbDirector": "Harold Ramis",
+    "omdbRuntime": "101 min",
+    "omdbRating": "PG",
+    "omdbImdbRating": "8.0",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BOWE3MjQ3ZDAtNDQ2MC00YjBjLTk0ZWYtNjQ0YzQ4YWE3YTEyXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  "National Lampoon's Christmas Vacation": {
+    "omdbPlot": "The Griswold family's plans for a big family Christmas predictably turn into a big disaster.",
+    "omdbDirector": "Jeremiah S. Chechik",
+    "omdbRuntime": "97 min",
+    "omdbRating": "PG-13",
+    "omdbImdbRating": "7.5",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BZDgxYzI2YWItNmUyNS00ZWE4LWEzZDctYTk1M2VkYjhkOWVmXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  "It's a Wonderful Life": {
+    "omdbPlot": "An angel is sent from Heaven to help a desperately frustrated businessman see the value of his own life.",
+    "omdbDirector": "Frank Capra",
+    "omdbRuntime": "130 min",
+    "omdbRating": "PG",
+    "omdbImdbRating": "8.6",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BMDM4OWFhYjEtNTE5Yy00NjcyLTg5N2UtZDQwNDZlYjlmNDU5XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  "Field of Dreams": {
+    "omdbPlot": "Iowa farmer Ray Kinsella is inspired by a voice he can't ignore to pursue a dream he can hardly believe. Supported by his wife, Ray begins the quest by turning his ordinary cornfield into a place where dreams can come true.",
+    "omdbDirector": "Phil Alden Robinson",
+    "omdbRuntime": "107 min",
+    "omdbRating": "PG",
+    "omdbImdbRating": "7.5",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BZTEwMGYzNDktOWEyMi00NTJjLWE5MGQtNmNlNDkxOTYyZDA5XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  "Forrest Gump": {
+    "omdbPlot": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart.",
+    "omdbDirector": "Robert Zemeckis",
+    "omdbRuntime": "142 min",
+    "omdbRating": "PG-13",
+    "omdbImdbRating": "8.8",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_QL75_UY562_CR4,0,380,562_.jpg"
+  },
+  "Jaws": {
+    "omdbPlot": "When a massive killer shark unleashes chaos on a beach community off Long Island, it's up to the local police chief, a marine biologist, and an old seafarer to hunt the beast down.",
+    "omdbDirector": "Steven Spielberg",
+    "omdbRuntime": "124 min",
+    "omdbRating": "PG",
+    "omdbImdbRating": "8.1",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BYjViNDQzNmUtYzkxZi00NTk5LTljMmItYjJlZmZkODIxNjU1XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  "Interstellar": {
+    "omdbPlot": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+    "omdbDirector": "Christopher Nolan",
+    "omdbRuntime": "169 min",
+    "omdbRating": "PG-13",
+    "omdbImdbRating": "8.7",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  },
+  "To Kill a Mockingbird": {
+    "omdbPlot": "A widowed lawyer in Depression-era Alabama defends a black man against a false rape charge while teaching his young children about the sad reality of prejudice.",
+    "omdbDirector": "Robert Mulligan",
+    "omdbRuntime": "129 min",
+    "omdbRating": "Approved",
+    "omdbImdbRating": "8.2",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BZTlkYWU4MGEtZmQyYi00OWEzLTgzY2EtYzVjOTEzYzAyNTk1XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  "Tombstone": {
+    "omdbPlot": "A successful lawman's plans to retire anonymously in Tombstone, Arizona, are disrupted by the kind of outlaws he was famous for eliminating.",
+    "omdbDirector": "George P. Cosmatos",
+    "omdbRuntime": "130 min",
+    "omdbRating": "R",
+    "omdbImdbRating": "7.8",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BNmQyMzlhNjUtMzRjYS00MWY4LWI5MDAtZGU1MWE2M2E0OGMxXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  "Ferris Bueller's Day Off": {
+    "omdbPlot": "A brash, cocky high school senior, tired of skipping school to spend a boring day at home, is determined to enjoy an epic day roaring around his favorite Chicago sites, enlisting his best friend and girlfriend to join him on the a...",
+    "omdbDirector": "John Hughes",
+    "omdbRuntime": "103 min",
+    "omdbRating": "PG-13",
+    "omdbImdbRating": "7.8",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BZWYwMjUxNjMtMzE0MC00NDM3LWIxMmQtYmEyNWVjNjdlZGZjXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  "North by Northwest": {
+    "omdbPlot": "A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies, and falls for a woman whose loyalties he begins to doubt.",
+    "omdbDirector": "Alfred Hitchcock",
+    "omdbRuntime": "136 min",
+    "omdbRating": "Approved",
+    "omdbImdbRating": "8.3",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BZWIzODI2OGItMzM0Ny00OGRmLTlkNmItMDQxMTFmMTk3YmQwXkEyXkFqcGc@._V1_QL75_UX380_CR0,5,380,562_.jpg"
+  },
+  "Chariots of Fire": {
+    "omdbPlot": "Two British track athletes, one a determined Jew and the other a devout Christian, are driven to win in the 1924 Olympics as they wrestle with issues of pride and conscience.",
+    "omdbDirector": "Hugh Hudson",
+    "omdbRuntime": "125 min",
+    "omdbRating": "PG",
+    "omdbImdbRating": "7.1",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BZjkzZjFmZDEtNTliZi00MDcwLThjMTMtNmI5OGVmYjZjZDM1XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  "Mission: Impossible - Fallout": {
+    "omdbPlot": "A group of terrorists plans to detonate three plutonium cores for a simultaneous nuclear attack on different cities. Ethan Hunt, along with his IMF team, sets out to stop the carnage.",
+    "omdbDirector": "Christopher McQuarrie",
+    "omdbRuntime": "147 min",
+    "omdbRating": "PG-13",
+    "omdbImdbRating": "7.7",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BZmUwZTg2YmMtMmZjOS00ZDYwLWI2ZDgtZDcyY2ZmMWMwZDdlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  },
+  "The Dark Knight": {
+    "omdbPlot": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness.",
+    "omdbDirector": "Christopher Nolan",
+    "omdbRuntime": "152 min",
+    "omdbRating": "PG-13",
+    "omdbImdbRating": "9.1",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  },
+  "Casino Royale": {
+    "omdbPlot": "After earning a licence to kill, secret agent James Bond sets out on his first mission as 007. Bond must defeat a private banker funding terrorists in a high-stakes game of poker at Casino Royale, in Montenegro.",
+    "omdbDirector": "Martin Campbell",
+    "omdbRuntime": "144 min",
+    "omdbRating": "PG-13",
+    "omdbImdbRating": "8.0",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BMWQ1ZDM4NDktMWY0NC00MjcxLWJlMDMtNmE2MGVhYzRjMWQ0XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  "Skyfall": {
+    "omdbPlot": "James Bond's loyalty to M is tested when her past comes back to haunt her. When MI6 comes under attack, 007 must track down and destroy the threat, no matter how personal the cost.",
+    "omdbDirector": "Sam Mendes",
+    "omdbRuntime": "143 min",
+    "omdbRating": "PG-13",
+    "omdbImdbRating": "7.8",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BNjAzMWNkODUtM2FlMi00NzgyLWJhMGUtMWEyNDYyZGFiN2RlXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  "The Matrix": {
+    "omdbPlot": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+    "omdbDirector": "Lana Wachowski, Lilly Wachowski",
+    "omdbRuntime": "136 min",
+    "omdbRating": "R",
+    "omdbImdbRating": "8.7",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
+  },
+  "Dead Poets Society": {
+    "omdbPlot": "Maverick teacher John Keating returns in 1959 to the prestigious New England boys' boarding school where he was once a star student, using poetry to embolden his pupils to new heights of self-expression.",
+    "omdbDirector": "Peter Weir",
+    "omdbRuntime": "128 min",
+    "omdbRating": "PG",
+    "omdbImdbRating": "8.1",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BMDYwNGVlY2ItMWYxMS00YjZiLWE5MTAtYWM5NWQ2ZWJjY2Q3XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  "Dunkirk": {
+    "omdbPlot": "Allied soldiers from Belgium, the British Commonwealth and Empire, and France are surrounded by the German Army and evacuated during a fierce battle in World War II.",
+    "omdbDirector": "Christopher Nolan",
+    "omdbRuntime": "106 min",
+    "omdbRating": "PG-13",
+    "omdbImdbRating": "7.8",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BMTE0Mjg4MTMwMDZeQTJeQWpwZ15BbWU4MDAwMDQ1ODAy._V1_SX300.jpg"
+  },
+  "Dune": {
+    "omdbPlot": "Paul Atreides arrives on Arrakis after his father accepts the stewardship of the dangerous planet. However, chaos ensues after a betrayal as forces clash to control melange, a precious resource.",
+    "omdbDirector": "Denis Villeneuve",
+    "omdbRuntime": "155 min",
+    "omdbRating": "PG-13",
+    "omdbImdbRating": "8.0",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BNWIyNmU5MGYtZDZmNi00ZjAwLWJlYjgtZTc0ZGIxMDE4ZGYwXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
+  },
+  "Dune: Part Two": {
+    "omdbPlot": "Paul Atreides unites with the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the universe, he endeavors to prevent a terrible fu...",
+    "omdbDirector": "Denis Villeneuve",
+    "omdbRuntime": "166 min",
+    "omdbRating": "PG-13",
+    "omdbImdbRating": "8.4",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  },
+  "The Good the Bad and the Ugly": {
+    "omdbPlot": "A bounty-hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+    "omdbDirector": "Sergio Leone",
+    "omdbRuntime": "178 min",
+    "omdbRating": "R",
+    "omdbImdbRating": "8.8",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BMWM5ZjQxM2YtNDlmYi00ZDNhLWI4MWUtN2VkYjBlMTY1ZTkwXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
+  },
+  "Schindler's List": {
+    "omdbPlot": null,
+    "omdbDirector": null,
+    "omdbRuntime": null,
+    "omdbRating": null,
+    "omdbImdbRating": null,
+    "omdbPoster": null
+  },
+  "Saving Private Ryan": {
+    "omdbPlot": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose comrades have been killed in action.",
+    "omdbDirector": "Steven Spielberg",
+    "omdbRuntime": "169 min",
+    "omdbRating": "R",
+    "omdbImdbRating": "8.6",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BZGZhZGQ1ZWUtZTZjYS00MDJhLWFkYjctN2ZlYjE5NWYwZDM2XkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
+  },
+  "Hacksaw Ridge": {
+    "omdbPlot": "World War II American Army Medic Desmond T. Doss, serving during the Battle of Okinawa, refuses to kill people and becomes the first man in American history to receive the Medal of Honor without firing a shot.",
+    "omdbDirector": "Mel Gibson",
+    "omdbRuntime": "139 min",
+    "omdbRating": "R",
+    "omdbImdbRating": "8.1",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_QL75_UX380_CR0,12,380,562_.jpg"
+  },
+  "Good Will Hunting": {
+    "omdbPlot": null,
+    "omdbDirector": null,
+    "omdbRuntime": "7 min",
+    "omdbRating": null,
+    "omdbImdbRating": "6.2",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BYzJkNmZiMDEtNjg2Yi00ZDljLWJjZGQtZGFiMTExZjMyMTljXkEyXkFqcGdeQXVyMjQ0NzE0MQ@@._V1_SX300.jpg"
+  },
+  "The Shawshank Redemption": {
+    "omdbPlot": "A wrongfully convicted banker forms a close friendship with a hardened convict over a quarter century while retaining his humanity through simple acts of compassion.",
+    "omdbDirector": "Frank Darabont",
+    "omdbRuntime": "142 min",
+    "omdbRating": "R",
+    "omdbImdbRating": "9.3",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
+  },
+  "Arrival": {
+    "omdbPlot": "Linguist Louise Banks leads a team of investigators when gigantic spaceships touch down around the world. As nations teeter on the verge of global war, Banks and her crew must find a way to communicate with the extraterrestrial vi...",
+    "omdbDirector": "Denis Villeneuve",
+    "omdbRuntime": "116 min",
+    "omdbRating": "PG-13",
+    "omdbImdbRating": "7.9",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_SX300.jpg"
+  },
+  "2001: A Space Odyssey": {
+    "omdbPlot": "When a mysterious artifact is uncovered on the Moon, a spacecraft manned by two humans and one supercomputer is sent to Jupiter to find its origins.",
+    "omdbDirector": "Stanley Kubrick",
+    "omdbRuntime": "149 min",
+    "omdbRating": "G",
+    "omdbImdbRating": "8.3",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BNjU0NDFkMTQtZWY5OS00MmZhLTg3Y2QtZmJhMzMzMWYyYjc2XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  "Oppenheimer": {
+    "omdbPlot": "A dramatization of the life story of J. Robert Oppenheimer, the physicist who had a large hand in the development of the atomic bombs that brought an end to World War II.",
+    "omdbDirector": "Christopher Nolan",
+    "omdbRuntime": "180 min",
+    "omdbRating": "R",
+    "omdbImdbRating": "8.2",
+    "omdbPoster": "https://m.media-amazon.com/images/M/MV5BN2JkMDc5MGQtZjg3YS00NmFiLWIyZmQtZTJmNTM5MjVmYTQ4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  }
+}
