@@ -299,6 +299,32 @@ function Txt({label,value,onChange,placeholder,rows=2}) {
   );
 }
 
+function csmUrl(title) {
+  return 'https://www.commonsensemedia.org/movie-reviews/' +
+    title.toLowerCase()
+      .replace(/['']/g, '')
+      .replace(/[^a-z0-9\s-]/g, '')
+      .replace(/\s+/g, '-')
+      .replace(/-+/g, '-')
+      .trim();
+}
+
+function CsmLink({title}) {
+  return (
+    <a href={csmUrl(title)} target="_blank" rel="noopener noreferrer"
+      style={{display:"inline-flex",alignItems:"center",gap:5,
+        fontSize:11,color:"#2a7d4f",textDecoration:"none",
+        background:"#f0faf4",border:"1px solid #b7dfca",
+        borderRadius:6,padding:"4px 10px",flexShrink:0}}
+      onMouseEnter={e=>e.currentTarget.style.background="#ddf2e8"}
+      onMouseLeave={e=>e.currentTarget.style.background="#f0faf4"}>
+      <span style={{fontSize:13}}>✓</span>
+      <span>Common Sense Media</span>
+      <span style={{fontSize:10,opacity:0.7}}>↗</span>
+    </a>
+  );
+}
+
 function AddFilmModal({onSave, onClose, existingTitles}) {
   const [step, setStep] = useState("search");
   const [query, setQuery] = useState("");
@@ -483,6 +509,9 @@ function AddFilmModal({onSave, onClose, existingTitles}) {
                       border:`1px solid ${C.border}`,fontSize:11}}>{film.omdbRating}</span>}
                     {film.omdbImdbRating&&<span>⭐ {film.omdbImdbRating}</span>}
                   </div>
+                  <div style={{marginBottom:8}}>
+                    <CsmLink title={film.title}/>
+                  </div>
                   <AgeBubble a={film.ageIdeal} size={38}/>
                 </div>
               </div>
@@ -622,6 +651,9 @@ function FilmModal({movie: initialMovie, kids, watches, onSave, onDelete, onClos
                 {movie.omdbImdbRating&&<span>⭐ {movie.omdbImdbRating}/10</span>}
               </div>
             )}
+            <div style={{marginBottom:10}}>
+              <CsmLink title={movie.title}/>
+            </div>
             <div style={{display:"flex",gap:8,marginBottom:10,flexWrap:"wrap"}}>
               <div style={{display:"flex",alignItems:"center",gap:6,padding:"5px 10px",
                 borderRadius:8,background:"#fff",border:`1px solid ${C.border}`}}>
